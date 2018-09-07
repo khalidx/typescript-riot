@@ -1,6 +1,6 @@
 # typescript-riot
 
-A great template to start your next web project!
+A great riotjs + typescript + scss + parcel + yarn starter template configured minimally and easily, great for starting your next web project!
 
 Batteries included:
 
